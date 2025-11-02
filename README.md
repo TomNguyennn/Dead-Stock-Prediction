@@ -51,9 +51,9 @@ The dataset contains 3,000 inventory records with 30+ features, including:
 ## 📁 Project Structure
 
 ```
-├── Dataset/
-│   └── Inventory.xlsx          # Raw inventory data
-├── dead_stock_prediction.py     # Main prediction script
+├── Inventory.xlsx          # Raw inventory data
+├── dead_stock_prediction.py # Main prediction script
+├── requirements.txt #requirements to run the script    
 └── README.md                    # Project documentation
 ```
 
